@@ -1,0 +1,15 @@
+# --- Core MCP & Rigol Control ---
+fastmcp>=0.2.0
+pyvisa>=1.13.0
+pyvisa-py>=0.7.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# --- Data & Image Processing ---
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# --- Development & Testing (Optional) ---
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+ruff
